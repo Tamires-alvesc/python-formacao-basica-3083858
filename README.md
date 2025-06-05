@@ -8,6 +8,7 @@ Python é uma das linguagens de programação mais utilizadas do mundo e com iss
 
 ## Instruções 
 
+
 Este repositório contém três pastas com o seguinte conteúdo:
 
 - **exercicios:** práticas propostas para fixar e desenvolver os conhecimentos adquiridos em cada capítulo. Essa pasta contém apenas orientações e desafios.
